@@ -20,9 +20,9 @@ public class Tugas226 {
         System.out.println();       
             
         for(int i=1; i<=n-2; i++) {    
-            System.out.print(n+"  ");
+            System.out.print(n+" ");
             for(int j=1; j<=n; j++) {
-                System.out.print(" ");
+                System.out.print("  ");
             }
             System.out.println(n+"  ");
         }
